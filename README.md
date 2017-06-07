@@ -1,4 +1,4 @@
-# cimena_DB
+# cimena_SQLite3
 Project on creating a database for movies and movie stars created with SQLite3 in a iPython notebook.
 
 This project is an educational document, meant to quickly teach people about SQL. In fact, this notebook is a usefull way to learn about relational databases and SQL in a fairily condensed manner, and to get a sense of the different aspect of creating and managing a DB:
